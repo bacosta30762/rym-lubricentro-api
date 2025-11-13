@@ -21,8 +21,14 @@ public class Startup
         {
             c.SwaggerDoc("v1", new OpenApiInfo
             {
-                Title = "API Example",
-                Version = "v1"
+                Title = "RyM Lubricentro API",
+                Version = "v1",
+                Description = "Comprehensive RESTful API for mechanic shop service management system",
+                Contact = new OpenApiContact
+                {
+                    Name = "RyM Lubricentro",
+                    Email = "support@lubricentrorym.com"
+                }
             });
 
             // Configuración para incluir Bearer Token
