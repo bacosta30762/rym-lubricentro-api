@@ -43,11 +43,11 @@ Before you begin, ensure you have:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/rym-lubricentro-api.git
+git clone https://github.com/bacosta30762/rym-lubricentro-api.git
 cd rym-lubricentro-api
 
 # Add upstream remote
-git remote add upstream https://github.com/originalowner/rym-lubricentro-api.git
+git remote add upstream https://github.com/bacosta30762/rym-lubricentro-api.git
 
 # Install dependencies
 dotnet restore
