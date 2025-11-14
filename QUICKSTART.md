@@ -14,7 +14,7 @@ Get up and running with the RyM Lubricentro API in minutes.
 ### Step 1: Clone and Navigate
 
 ```bash
-git clone https://github.com/yourusername/rym-lubricentro-api.git
+git clone https://github.com/bacosta30762/rym-lubricentro-api.git
 cd rym-lubricentro-api
 ```
 
