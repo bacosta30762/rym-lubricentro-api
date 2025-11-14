@@ -106,7 +106,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rym-lubricentro-api.git
+git clone https://github.com/bacosta30762/rym-lubricentro-api.git
 cd rym-lubricentro-api
 ```
 
